@@ -1,45 +1,33 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Ginsu2000
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: Floating point exception<br>
+**Conteúdo da Disciplina**: Divide and Conquer<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0033620  |  João Henrique C. Paulino |
+| 18/0052845  |  Gabriela da Gama Pivetta |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Sim, depois da faca [ginsu2000](https://www.youtube.com/watch?v=Kk9mYTmULr0&ab_channel=%C3%89Pav%C3%AA) ser capaz de cortar até mesmo um cano de ferro, a empresa 
+Guinso LTDA está lançando a inovadora ginsu2048, 
+que além de cortar a sola de um sapato é capaz
+de dividir problemas de computação para que você
+conquiste sua nota na faculdade.
+
+Todos os códigos foram cortados com a inovadora ginsu2048.
+
+![guinsu](ginsu.png)
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+Imagem meramente ilustrativa, sera substituida futuramente.
+![guinsu_barra](ginsu_barraFerro.jpg)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: C99 | C++17 | python3<br>
+
+Pre requisitos python3, gcc e g++17 instalados.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+Só mandar as questões para o site e id_questão do problema os dados das questões resolvidas podem ser encontrados no cabeçalho de cada arquivo.
