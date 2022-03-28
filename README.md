@@ -18,6 +18,8 @@ conquiste sua nota na faculdade.
 
 Todos os códigos foram cortados com a inovadora ginsu2048.
 
+[VIDEO](https://drive.google.com/file/d/15U51zGcBIKlNpItA-3znJN4EeDQQSpfX/view?usp=sharing)
+
 ![guinsu](ginsu.png)
 
 ## Screenshots
