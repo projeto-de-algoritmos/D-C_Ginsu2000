@@ -21,7 +21,6 @@ Todos os códigos foram cortados com a inovadora ginsu2048.
 ![guinsu](ginsu.png)
 
 ## Screenshots
-Imagem meramente ilustrativa, sera substituida futuramente.
 ![guinsu_barra](ginsu_barraFerro.jpg)
 
 ## Instalação 
